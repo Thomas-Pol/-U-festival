@@ -75,13 +75,73 @@
                     "name": "Comedy", 
                     "start_time": "12:15",
                     "total_time": 45
-                }
+                }, 
+                "artist2": {
+                    "name": "Lecture", 
+                    "start_time": "13:45",
+                    "total_time": 45
+                },
+                "artist3": {
+                    "name": "Theater", 
+                    "start_time": "15:15",
+                    "total_time": 90
+                },
+                "artist4": {
+                    "name": "Movie", 
+                    "start_time": "17:30",
+                    "total_time": 120
+                },
+                "artist5": {
+                    "name": "Performance", 
+                    "start_time": "20:15",
+                    "total_time": 60
+                },
+                "artist6": {
+                    "name": "Illusionist", 
+                    "start_time": "22:00",
+                    "total_time": 60
+                }	
             },
             "Hanggar": {
                 "artist1": {
                     "name": "DJ set 1", 
                     "start_time": "10:00",
                     "total_time": 60
+                },
+                "artist2": {
+                    "name": "DJ set 2", 
+                    "start_time": "11:00",
+                    "total_time": 90
+                },
+                "artist3": {
+                    "name": "DJ set 3", 
+                    "start_time": "12:30",
+                    "total_time": 90
+                },
+                "artist4": {
+                    "name": "DJ set 4", 
+                    "start_time": "14:00",
+                    "total_time": 90
+                },
+                "artist5": {
+                    "name": "DJ set 5", 
+                    "start_time": "15:30",
+                    "total_time": 120
+                },
+                "artist6": {
+                    "name": "DJ set 6", 
+                    "start_time": "17:30",
+                    "total_time": 120
+                },
+                "artist7": {
+                    "name": "DJ set 7", 
+                    "start_time": "19:30",
+                    "total_time": 120
+                },
+                "artist8": {
+                    "name": "DJ set 8", 
+                    "start_time": "21:30",
+                    "total_time": 150
                 }
             }
         },
@@ -150,14 +210,69 @@
                     "name": "Comedy", 
                     "start_time": "12:00",
                     "total_time": 45
-                }
+                },
+                "artist2": {
+                    "name": "Lecture", 
+                    "start_time": "13:30",
+                    "total_time": 60
+                },
+                "artist3": {
+                    "name": "Theater", 
+                    "start_time": "15:30",
+                    "total_time": 60
+                },
+                "artist4": {
+                    "name": "Movie", 
+                    "start_time": "17:30",
+                    "total_time": 120
+                },
+                "artist5": {
+                    "name": "Magic show", 
+                    "start_time": "20:15",
+                    "total_time": 90
+                } 
             },
             "Hanggar": {
                 "artist1": {
                     "name": "DJ set 1", 
                     "start_time": "10:00",
                     "total_time": 30
-                }
+                },
+                "artist2": {
+                    "name": "DJ set 2", 
+                    "start_time": "10:30",
+                    "total_time": 120
+                },
+                "artist3": {
+                    "name": "DJ set 3", 
+                    "start_time": "12:30",
+                    "total_time": 60
+                },
+                "artist4": {
+                    "name": "DJ set 4", 
+                    "start_time": "13:30",
+                    "total_time": 120
+                },
+                "artist5": {
+                    "name": "DJ set 5", 
+                    "start_time": "15:30",
+                    "total_time": 90
+                },
+                "artist6": {
+                    "name": "DJ set 6", 
+                    "start_time": "17:00",
+                    "total_time": 90
+                },
+                "artist7": {
+                    "name": "DJ set 7", 
+                    "start_time": "18:30",
+                    "total_time": 150
+                },
+                "artist8": {
+                    "name": "DJ set 8", 
+                    "start_time": "21:00",
+                    "total_time": 180
+                }	
             }	
         }
     }
