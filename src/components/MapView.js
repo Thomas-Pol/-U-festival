@@ -89,7 +89,7 @@ export default function MapView() {
       maxBoundsViscosity={3.0}
       style={{ height: "100%", width: "100%" }}
       minZoom={-3}
-      className="z-10"
+      className="z-10 rounded-2xl"
     >
       <ImageOverlay url="/kaart.svg" bounds={bounds} />
       <Marker position={[3025, 850]} icon={entranceIcon} />

@@ -1,0 +1,164 @@
+{
+    "setlist": {
+        "saturday": {
+            "Poton": {
+                "artist1": {
+                    "name": "Armin van Buuren", 
+                    "start_time": "10:30",
+                    "total_time": 90
+                },
+                "artist2": {
+                    "name": "Kensington", 
+                    "start_time": "12:30",
+                    "total_time": 90
+                },
+                "artist3": {
+                    "name": "Martin Garrix", 
+                    "start_time": "14:30",
+                    "total_time": 120
+                },
+                "artist4": {
+                    "name": "Navarone", 
+                    "start_time": "17:00",
+                    "total_time": 90
+                },
+                "artist5": {
+                    "name": "Dotan", 
+                    "start_time": "19:15",
+                    "total_time": 120
+                },
+                "artist6": {
+                    "name": "Froukje", 
+                    "start_time": "22:00",
+                    "total_time": 120
+                }
+            },
+            "The lake": {
+                "artist1": {
+                    "name": "Talent set 1", 
+                    "start_time": "10:00",
+                    "total_time": 60
+                },
+                "artist2": {
+                    "name": "Talent set 2", 
+                    "start_time": "11:30",
+                    "total_time": 90
+                },
+                "artist3": {
+                    "name": "Talent set 3", 
+                    "start_time": "13:30",
+                    "total_time": 90
+                },
+                "artist4": {
+                    "name": "Talent set 4", 
+                    "start_time": "15:30",
+                    "total_time": 90
+                },
+                "artist5": {
+                    "name": "Talent set 5", 
+                    "start_time": "17:30",
+                    "total_time": 60
+                },
+                "artist6": {
+                    "name": "Talent set 6", 
+                    "start_time": "19:15",
+                    "total_time": 90
+                },
+                "artist7": {
+                    "name": "Talent set 7", 
+                    "start_time": "21:30",
+                    "total_time": 90
+                }
+            },
+            "The Club": {
+                "artist1": {
+                    "name": "Comedy", 
+                    "start_time": "12:15",
+                    "total_time": 45
+                }
+            },
+            "Hanggar": {
+                "artist1": {
+                    "name": "DJ set 1", 
+                    "start_time": "10:00",
+                    "total_time": 60
+                }
+            }
+        },
+        "sunday": {
+            "Poton": {
+                "artist1": {
+                    "name": "Martin Garrix", 
+                    "start_time": "11:00",
+                    "total_time": 120
+                },
+                "artist2": {
+                    "name": "Racoon", 
+                    "start_time": "13:45",
+                    "total_time": 120
+                },
+                "artist3": {
+                    "name": "Chef’Special", 
+                    "start_time": "16:30",
+                    "total_time": 120
+                },
+                "artist4": {
+                    "name": "Eefje de Visser", 
+                    "start_time": "19:15",
+                    "total_time": 120
+                },
+                "artist5": {
+                    "name": "Spinvis", 
+                    "start_time": "22:00",
+                    "total_time": 120
+                }
+            },
+            "The lake": {
+                "artist1": {
+                    "name": "Talent set 1", 
+                    "start_time": "10:00",
+                    "total_time": 60
+                },
+                "artist2": {
+                    "name": "Talent set 2", 
+                    "start_time": "11:30",
+                    "total_time": 90
+                },
+                "artist3": {
+                    "name": "Talent set 3", 
+                    "start_time": "13:30",
+                    "total_time": 90
+                },
+                "artist4": {
+                    "name": "Talent set 4", 
+                    "start_time": "15:30",
+                    "total_time": 120
+                },
+                "artist5": {
+                    "name": "Talent set 5", 
+                    "start_time": "18:15",
+                    "total_time": 60
+                },
+                "artist6": {
+                    "name": "Talent set 6", 
+                    "start_time": "20:30",
+                    "total_time": 120
+                }
+            },
+            "The Club": {
+                "artist1": {
+                    "name": "Comedy", 
+                    "start_time": "12:00",
+                    "total_time": 45
+                }
+            },
+            "Hanggar": {
+                "artist1": {
+                    "name": "DJ set 1", 
+                    "start_time": "10:00",
+                    "total_time": 30
+                }
+            }	
+        }
+    }
+}

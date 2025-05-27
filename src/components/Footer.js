@@ -6,7 +6,7 @@ import { usePathname } from 'next/navigation';
     const pathname = usePathname();
 
     return (
-      <footer className="w-full h-1/8 flex justify-center items-center border-t-2 ">
+      <footer className="w-full h-1/8 flex justify-center items-center">
         <nav className="flex w-9/10 h-full justify-between items-center">
           {/* home button */}
           <Link
