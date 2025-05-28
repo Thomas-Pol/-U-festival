@@ -87,7 +87,7 @@ export default function SetList() {
             return (
               <div
                 key={`time-${i}`}
-                className="text-xs text-right pr-1 font-semibold border-b border-gray-300 flex items-center justify-end"
+                className="text-xs text-right mr-1 pr-1 font-semibold border-b border-gray-300 flex items-center justify-end"
                 style={{
                   gridColumnStart: i + 1,
                   gridRowStart: 1,
@@ -114,7 +114,7 @@ export default function SetList() {
                     gridColumnEnd: colStart + colSpan,
                     gridRowStart: rowStart,
                   }}
-                  className="bg-green-500 text-white text-xs rounded-md p-1 shadow-md"
+                  className="bg-green-500 text-white text-xs rounded-md mr-1 p-1 shadow-md"
                 >
                   {artist.name}
                 </div>

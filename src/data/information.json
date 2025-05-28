@@ -1,0 +1,17 @@
+{
+    "info1": {
+        "title": "Algemeen & Contact",
+        "description": "Het ❤️U Festival is voor (nieuwe) studenten in de regio Utrecht en is een aanvulling op UIT.",
+        "subcontent": [
+            {
+                "title": "Adres",
+                "text": "Locatie: Strijkviertel, Utrecht",
+                "text2": "Navigatieadres: Strijkviertelweg, Utrecht"
+            },
+            {
+                "title": "Datum & Openingstijden",
+                "text": "Voor vragen kun je contact opnemen via"
+            }
+        ]
+    }
+}
