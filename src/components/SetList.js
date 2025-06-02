@@ -2,6 +2,8 @@
 
 import { useState } from 'react';
 import setlistData from '../data/setlist.json';
+import { useLanguage } from "../components/LanguageContext";
+
 
 const START_TIME = 10 * 60;
 const BLOCK_MINUTES = 15;
@@ -18,6 +20,7 @@ function durationToBlocks(minutes) {
 }
 
 export default function SetList() {
+  const { language } = useLanguage();
   const [selectedDay, setSelectedDay] = useState('saturday');
   const stages = Object.entries(setlistData.setlist[selectedDay]);
 
@@ -33,7 +36,8 @@ export default function SetList() {
           }`}
           onClick={() => setSelectedDay('saturday')}
         >
-          zaterdag
+          {language === 'en' ? 'Saturday' : 'Zaterdag'}
+          
         </button>
         <button
           className={`w-[47%] py-2 rounded-3xl shadow-md shadow-black ${
@@ -41,7 +45,7 @@ export default function SetList() {
           }`}
           onClick={() => setSelectedDay('sunday')}
         >
-          zondag
+          {language === 'en' ? 'Sunday' : 'Zondag'}
         </button>
       </div>
 
@@ -55,14 +59,14 @@ export default function SetList() {
             height: '100%',
           }}
         >
-          <div className="w-full flex items-center justify-end p-2 font-bold border-b border-gray-300">
+          <div className="w-full flex items-center justify-end p-2 font-bold border-b border-gray-300 dark:bg-black dark:text-white">
             Time
           </div>
 
           {stages.map(([stage], index) => (
             <div
               key={stage}
-              className="flex items-center justify-end pr-2 border-b border-gray-200 font-medium"
+              className="flex items-center justify-end pr-2 border-b border-gray-200 font-medium dark:bg-black dark:text-white"
             >
               {stage}
             </div>
@@ -87,7 +91,7 @@ export default function SetList() {
             return (
               <div
                 key={`time-${i}`}
-                className="text-xs text-right mr-1 pr-1 font-semibold border-b border-gray-300 flex items-center justify-end"
+                className="text-xs text-right mr-1 pr-1 font-semibold border-b border-gray-300 flex items-center justify-end dark:text-whiteq"
                 style={{
                   gridColumnStart: i + 1,
                   gridRowStart: 1,

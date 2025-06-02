@@ -1,0 +1,82 @@
+{
+  "news1": {
+    "title": {
+      "nl": "Welkom op het ❤️U festival",
+      "en": "Welcome to the ❤️U Festival"
+    },
+    "description": {
+      "nl": "",
+      "en": ""
+    }
+  },
+  "news2": {
+    "title": {
+      "nl": "Line-up compleet: ontdek jouw favorieten!",
+      "en": "Line-up complete: discover your favorites!"
+    },
+    "description": {
+      "nl": "De laatste namen zijn bekend! Check nu het volledige schema en plan jouw perfecte festivaldag.",
+      "en": "The final names are in! Check out the full schedule now and plan your perfect festival day."
+    }
+  },
+  "news3": {
+    "title": {
+      "nl": "Nieuwe foodtrucks toegevoegd: proef iets nieuws!",
+      "en": "New food trucks added: taste something new!"
+    },
+    "description": {
+      "nl": "We hebben het foodplein uitgebreid met 6 nieuwe culinaire toppers! Probeer de spicy Korean fried chicken van Seoul Bites, of ga voor een plantaardige traktatie bij Vegan Vibes. Ook nieuw: Bubble Tea Bar, Loaded Fries XXL, en een ijsfiets met alcoholvrije cocktails.",
+      "en": "We've expanded the food court with 6 new culinary hits! Try the spicy Korean fried chicken from Seoul Bites, or go for a plant-based treat at Vegan Vibes. Also new: Bubble Tea Bar, Loaded Fries XXL, and an ice cream bike with alcohol-free cocktails."
+    }
+  },
+  "news4": {
+    "title": {
+      "nl": "Weerupdate: perfect festivalweer op komst!",
+      "en": "Weather update: perfect festival weather ahead!"
+    },
+    "description": {
+      "nl": "De voorspellingen zijn binnen: het wordt 23 graden, zonnig met af en toe wat wolken — ideaal weer om te dansen, chillen en genieten. Smeer je goed in en drink genoeg water!",
+      "en": "The forecast is in: 23 degrees, sunny with occasional clouds — ideal for dancing, chilling, and enjoying. Don’t forget sunscreen and stay hydrated!"
+    }
+  },
+  "news5": {
+    "title": {
+      "nl": "Afterparty locatie bekendgemaakt!",
+      "en": "Afterparty location revealed!"
+    },
+    "description": {
+      "nl": "Het feest gaat door na het hoofdpodium! Vanaf 23:30 uur begint de officiële afterparty in de Warehouse Stage. Verwacht house classics, verrassings-DJ’s en een intieme sfeer tot 03:00.",
+      "en": "The party continues after the main stage! The official afterparty starts at 23:30 in the Warehouse Stage. Expect house classics, surprise DJs, and an intimate vibe until 03:00."
+    }
+  },
+  "news6": {
+    "title": {
+      "nl": "Speciale surprise act op zaterdag 🎤",
+      "en": "Special surprise act on Saturday 🎤"
+    },
+    "description": {
+      "nl": "Zaterdag om 21:00 uur op het hoofdpodium: een act die nog niet in het schema staat. Tipje van de sluier: deze artiest stond op Lowlands, Pinkpop én heeft miljoenen streams. Zet je notificaties aan!",
+      "en": "Saturday at 21:00 on the main stage: an act not yet listed on the schedule. Hint: this artist has played at Lowlands, Pinkpop, and has millions of streams. Turn on notifications!"
+    }
+  },
+  "news7": {
+    "title": {
+      "nl": "Cashless betalen: zo werkt het op het terrein",
+      "en": "Cashless payments: how it works on-site"
+    },
+    "description": {
+      "nl": "Bij binnenkomst krijg je een polsbandje met NFC-chip. Je kunt saldo toevoegen via de app of op het terrein. Bestellen? Tik je bandje en klaar!",
+      "en": "Upon entry, you'll receive a wristband with an NFC chip. You can top up your balance via the app or on-site. Ready to order? Just tap your wristband!"
+    }
+  },
+  "news8": {
+    "title": {
+      "nl": "Festival app update: nieuwe functies live!",
+      "en": "Festival app update: new features live!"
+    },
+    "description": {
+      "nl": "De app is geüpdatet met realtime updates, locatiehulp en notificaties van jouw favoriete acts. Zet je favorieten aan en mis niets!",
+      "en": "The app has been updated with real-time updates, location help, and notifications for your favorite acts. Turn on your favorites and don’t miss a thing!"
+    }
+  }
+}

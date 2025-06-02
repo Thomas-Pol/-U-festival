@@ -1,8 +1,12 @@
+
+
 import { Geist, Geist_Mono } from "next/font/google";
 
 import "./globals.css";
 import Footer from '../components/Footer';
 import Header from '../components/Header';
+
+import { LanguageProvider } from '../components/LanguageContext';  // <-- import the provider
 
 export const metadata = {
   title: 'U-Festival',
@@ -14,14 +18,18 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=home" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=home"
+        />
       </head>
-      <body
-        className={`max-w-[480px] mx-auto h-screen overflow-hidden dark:bg-black`}
-      >
-        <Header />
-        {children}
-        <Footer />
+      <body className="max-w-[480px] mx-auto h-screen overflow-hidden dark:bg-black">
+        {/* Wrap everything inside LanguageProvider */}
+        <LanguageProvider>
+          <Header />
+          {children}
+          <Footer />
+        </LanguageProvider>
       </body>
     </html>
   );

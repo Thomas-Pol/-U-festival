@@ -1,74 +1,176 @@
 {
-    "info1": {
-        "title": "Algemeen & Contact",
-        "description": "Het ❤️U Festival is voor (nieuwe) studenten in de regio Utrecht en is een aanvulling op UIT.",
-        "subcontent": [
-            {
-                "title": "Adres",
-                "text": "Locatie: Strijkviertel, Utrecht",
-                "text2": "Navigatieadres: Strijkviertelweg, Utrecht"
-            },
-            {
-                "title": "Datum & Openingstijden",
-                "text": "Zaterdag 6 september 2025 - 12:00 tot 23:00 uur"
-            }
-        ]
+  "info1": {
+    "title": {
+      "nl": "Algemeen & Contact",
+      "en": "General & Contact"
     },
-    "info2": {
-        "title": "Bereikbaarheid",
-        "description": "",
-        "subcontent": [
-            {
-                "title": "Fiets",
-                "text": "Er is een grote gratis fietsenstalling aanwezig waar je jouw fiets de gehele dag kunt stallen."
-            },
-            {
-                "title": "Auto",
-                "text": "Je kunt een parkingticket aanschaffen. Parkeren kan op P+R Papendorp, volg hiervoor de borden 'P online ticket'. Heb je geen ticket van te voren gekocht? Dan kun je bij de parkeerwachter op locatie een parkeerticket aanschaffen (PIN ONLY). Let wel op: VOL=VOL"
-            },
-            {
-                "title": "OV",
-                "text": "Kom je met het openbaar vervoer naar Lief? Plan dan je trip via 9292.nl."
-            },
-            {
-                "title": "Shuttlebus",
-                "text": "Vanaf Utrecht Centraal kun je onze gratis shuttlebus richting het festivalterrein pakken. Je vindt deze bus op het centraal station aan de Mineurslaan. Volg de witte bordjes met zwarte pijlen én ' ❤️U Festival'. ",
-                "text2": "De bus rijdt tussen 12:00 uur & 19:00 uur richting het festival en vanaf 21:00 uur kun je weer instappen om richting het station te gaan."
-            },
-            {
-                "title": "Taxi + Kiss & Ride",
-                "text": "Navigeer naar Strijkviertel, De Meern (Utrecht). Volg de borden 'Kiss & Ride ❤️U Festival', zodra je in de buurt bent van het festivalterrein."
-            }
-        ]
+    "description": {
+      "nl": "Het ❤️U Festival is voor (nieuwe) studenten in de regio Utrecht en is een aanvulling op UIT.",
+      "en": "The ❤️U Festival is for (new) students in the Utrecht region and is a supplement to UIT."
     },
-    "info3": {
-        "title": "Lockers",
-        "description": "Op het festivalterrein zijn kluisjes aanwezig waar je je spullen veilig kunt opbergen! Hier passen 3 à 4 jassen in. Goed om te weten: je kunt je kluisje gedurende de hele dag openen en sluiten zo vaak je wilt. Het is niet mogelijk om online een kluisje te reserveren."
+    "subcontent": [
+      {
+        "title": {
+          "nl": "Adres",
+          "en": "Address"
+        },
+        "text": {
+          "nl": "Locatie: Strijkviertel, Utrecht",
+          "en": "Location: Strijkviertel, Utrecht"
+        },
+        "text2": {
+          "nl": "Navigatieadres: Strijkviertelweg, Utrecht",
+          "en": "Navigation address: Strijkviertelweg, Utrecht"
+        }
+      },
+      {
+        "title": {
+          "nl": "Datum & Openingstijden",
+          "en": "Date & Opening Hours"
+        },
+        "text": {
+          "nl": "Zaterdag 6 september 2025 - 12:00 tot 23:00 uur",
+          "en": "Saturday, September 6, 2025 - 12:00 PM to 11:00 PM"
+        }
+      }
+    ]
+  },
+  "info2": {
+    "title": {
+      "nl": "Bereikbaarheid",
+      "en": "Accessibility"
     },
-    "info4": {
-        "title": "FAQ",
-        "description": "",
-        "subcontent": [
-            {
-                "title": "Ik gebruik medicatie. Wat nu?",
-                "text": "Het is toegestaan om medicijnen mee te nemen in een dosis die je maximaal nodig hebt op 1 dag. Een doktersverklaring/medicatiepaspoort is noodzakelijk.De beveiliging zal jouw documentatie beoordelen en de medicijnen controleren. Het kan zijn dat de EHBO jouw medicijnen (bijvoorbeeld als deze gevaarlijk zijn i.c.m. alcohol) in bewaring neemt en je deze enkel kan innemen bij de EHBO. "
-            }, 
-            {
-                "title": "Mag ik het festivalterrein tussentijds verlaten?",
-                "text": "Nee, helaas is dat niet mogelijk. Om de veiligheid van alle bezoekers te kunnen waarborgen, kunnen we het niet toestaan dat het festivalterrein tussentijds verlaten wordt. Wij hebben namelijk geen zicht op hetgeen wat een bezoeker buiten het festivalterrein doet en ik welke staat deze het terrein weer betreedt. Hier kunnen dan ook geen uitzonderingen voor gemaakt worden. Wij hebben genoeg loungeplekken, foodstands & barren om het een hele dag uit te kunnen houden."
-            },
-            {
-                "title": "Mag ik mijn huisdier meenemen?",
-                "text": "Helaas is het niet toegestaan om huisdieren mee te nemen naar het festival. Dit geldt ook voor hulphonden."
-            },
-            {
-                "title": "Zijn er lockers?",
-                "text": "Yes, deze zijn er! Op het terrein kun je medium & grote lockers huren."
-            }
-        ]
+    "description": {
+      "nl": "",
+      "en": ""
     },
-    "info5": {
-        "title": "Golden-GLU",
-        "description": "Studenten van het GLU hebben tijdens het festival speciale privileges en zijn herkenbaar aan een gouden armbandje. Met dit gouden armbandje kunnen ze tijdens het festival gebruik maken van de gouden toiletten en met goud gemarkeerde bestelpunten aan de bars zonder in een rij te hoeven staan."
+    "subcontent": [
+      {
+        "title": {
+          "nl": "Fiets",
+          "en": "Bicycle"
+        },
+        "text": {
+          "nl": "Er is een grote gratis fietsenstalling aanwezig waar je jouw fiets de gehele dag kunt stallen.",
+          "en": "There is a large free bicycle parking area where you can leave your bike all day."
+        }
+      },
+      {
+        "title": {
+          "nl": "Auto",
+          "en": "Car"
+        },
+        "text": {
+          "nl": "Je kunt een parkingticket aanschaffen. Parkeren kan op P+R Papendorp, volg hiervoor de borden 'P online ticket'. Heb je geen ticket van te voren gekocht? Dan kun je bij de parkeerwachter op locatie een parkeerticket aanschaffen (PIN ONLY). Let wel op: VOL=VOL",
+          "en": "You can purchase a parking ticket. Parking is available at P+R Papendorp; follow the signs for 'P online ticket'. No ticket in advance? Buy one on-site from a parking attendant (PIN ONLY). Note: FULL=FULL."
+        }
+      },
+      {
+        "title": {
+          "nl": "OV",
+          "en": "Public Transport"
+        },
+        "text": {
+          "nl": "Kom je met het openbaar vervoer naar Lief? Plan dan je trip via 9292.nl.",
+          "en": "Coming to Lief by public transport? Plan your trip at 9292.nl."
+        }
+      },
+      {
+        "title": {
+          "nl": "Shuttlebus",
+          "en": "Shuttle Bus"
+        },
+        "text": {
+          "nl": "Vanaf Utrecht Centraal kun je onze gratis shuttlebus richting het festivalterrein pakken. Je vindt deze bus op het centraal station aan de Mineurslaan. Volg de witte bordjes met zwarte pijlen én ' ❤️U Festival'.",
+          "en": "From Utrecht Central Station, take our free shuttle bus to the festival site. You’ll find the bus at Mineurslaan. Follow the white signs with black arrows and '❤️U Festival'."
+        },
+        "text2": {
+          "nl": "De bus rijdt tussen 12:00 uur & 19:00 uur richting het festival en vanaf 21:00 uur kun je weer instappen om richting het station te gaan.",
+          "en": "The bus runs to the festival between 12:00 PM and 7:00 PM, and back to the station from 9:00 PM onward."
+        }
+      },
+      {
+        "title": {
+          "nl": "Taxi + Kiss & Ride",
+          "en": "Taxi + Kiss & Ride"
+        },
+        "text": {
+          "nl": "Navigeer naar Strijkviertel, De Meern (Utrecht). Volg de borden 'Kiss & Ride ❤️U Festival', zodra je in de buurt bent van het festivalterrein.",
+          "en": "Navigate to Strijkviertel, De Meern (Utrecht). Follow the signs 'Kiss & Ride ❤️U Festival' as you approach the festival area."
+        }
+      }
+    ]
+  },
+  "info3": {
+    "title": {
+      "nl": "Lockers",
+      "en": "Lockers"
+    },
+    "description": {
+      "nl": "Op het festivalterrein zijn kluisjes aanwezig waar je je spullen veilig kunt opbergen! Hier passen 3 à 4 jassen in. Goed om te weten: je kunt je kluisje gedurende de hele dag openen en sluiten zo vaak je wilt. Het is niet mogelijk om online een kluisje te reserveren.",
+      "en": "There are lockers at the festival site where you can safely store your belongings! They fit 3 to 4 jackets. Good to know: you can open and close your locker throughout the day as often as you like. Online reservation is not possible."
     }
+  },
+  "info4": {
+    "title": {
+      "nl": "FAQ",
+      "en": "FAQ"
+    },
+    "description": {
+      "nl": "",
+      "en": ""
+    },
+    "subcontent": [
+      {
+        "title": {
+          "nl": "Ik gebruik medicatie. Wat nu?",
+          "en": "I use medication. What now?"
+        },
+        "text": {
+          "nl": "Het is toegestaan om medicijnen mee te nemen in een dosis die je maximaal nodig hebt op 1 dag. Een doktersverklaring/medicatiepaspoort is noodzakelijk.De beveiliging zal jouw documentatie beoordelen en de medicijnen controleren. Het kan zijn dat de EHBO jouw medicijnen (bijvoorbeeld als deze gevaarlijk zijn i.c.m. alcohol) in bewaring neemt en je deze enkel kan innemen bij de EHBO.",
+          "en": "You may bring medication in a dose required for one day. A doctor's note or medication passport is required. Security will review your documentation and check the medication. If it's potentially risky (e.g. with alcohol), first aid may store it, and you’ll need to take it there under supervision."
+        }
+      },
+      {
+        "title": {
+          "nl": "Mag ik het festivalterrein tussentijds verlaten?",
+          "en": "Can I leave the festival grounds temporarily?"
+        },
+        "text": {
+          "nl": "Nee, helaas is dat niet mogelijk. Om de veiligheid van alle bezoekers te kunnen waarborgen, kunnen we het niet toestaan dat het festivalterrein tussentijds verlaten wordt. Wij hebben namelijk geen zicht op hetgeen wat een bezoeker buiten het festivalterrein doet en ik welke staat deze het terrein weer betreedt. Hier kunnen dan ook geen uitzonderingen voor gemaakt worden. Wij hebben genoeg loungeplekken, foodstands & barren om het een hele dag uit te kunnen houden.",
+          "en": "No, unfortunately not. To ensure everyone's safety, we cannot allow temporary exits. We have no insight into what visitors do outside or how they return. No exceptions can be made. We have plenty of lounge spots, food stands & bars to keep you comfortable all day."
+        }
+      },
+      {
+        "title": {
+          "nl": "Mag ik mijn huisdier meenemen?",
+          "en": "Can I bring my pet?"
+        },
+        "text": {
+          "nl": "Helaas is het niet toegestaan om huisdieren mee te nemen naar het festival. Dit geldt ook voor hulphonden.",
+          "en": "Unfortunately, pets are not allowed at the festival. This also applies to service dogs."
+        }
+      },
+      {
+        "title": {
+          "nl": "Zijn er lockers?",
+          "en": "Are there lockers?"
+        },
+        "text": {
+          "nl": "Yes, deze zijn er! Op het terrein kun je medium & grote lockers huren.",
+          "en": "Yes, there are! You can rent medium & large lockers on site."
+        }
+      }
+    ]
+  },
+  "info5": {
+    "title": {
+      "nl": "Golden-GLU",
+      "en": "Golden-GLU"
+    },
+    "description": {
+      "nl": "Studenten van het GLU hebben tijdens het festival speciale privileges en zijn herkenbaar aan een gouden armbandje. Met dit gouden armbandje kunnen ze tijdens het festival gebruik maken van de gouden toiletten en met goud gemarkeerde bestelpunten aan de bars zonder in een rij te hoeven staan.",
+      "en": "GLU students have special privileges at the festival and are recognizable by a golden wristband. With this wristband, they can use golden toilets and special fast lanes at the bars without waiting in line."
+    }
+  }
 }
